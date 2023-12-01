@@ -24,4 +24,4 @@ A simple weather app built using React that allows users to check the weather co
 1. Clone the repository:
 
    ```bash
-  gh repo clone aitiqad/simple-weather-app
+   git clone https://github.com/aitiqad/simple-weather-app.git
