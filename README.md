@@ -6,11 +6,6 @@ A simple weather app built using React that allows users to check the weather co
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [API Key](#api-key)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
